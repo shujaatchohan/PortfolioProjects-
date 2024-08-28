@@ -1,4 +1,6 @@
 
+--Covid-19 Data Exploration Project--
+
 Select*
 from CovidDeaths
 Where continent is not NULL
